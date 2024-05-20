@@ -1,0 +1,30 @@
+[
+    {
+    "nazwa": "Piesek",
+    "cena": "300 like",
+    "opis": "Najlepszy przyjaciel",
+    "id": "doggo",
+    "src": "dog.jpg"
+    },
+    {
+    "nazwa": "Kotek",
+    "cena": "500 like",
+    "opis": "Puszysty kotek",
+    "id": "car",
+    "src": "car.jpg"
+    },
+    {
+    "nazwa": "Żabka",
+    "cena": "250 like",
+    "opis": "Piękna malutka żabcia",
+    "id": "frug",
+    "src": "frug.jpg"
+    },
+    {
+    "nazwa": "Chomiczek",
+    "cena": "1000 like",
+    "opis": "Super słodki",
+    "id": "hampter",
+    "src": "hampter.jpg"
+    }
+    ]
